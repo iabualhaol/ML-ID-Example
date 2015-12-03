@@ -1,0 +1,16 @@
+[   {id: 1, label: 'Machine Learning'},
+    {id: 2, label: 'Scalable'},
+    {id: 3, label: 'Not Scalable'},
+    {id: 4, label: 'Batch Processing'},
+    {id: 5, label: 'Stream Processing'},
+    {id: 6, label: 'Batch Processing'},
+    {id: 7, label: 'Stream Processing'},
+    {id: 8, label: 'WEKA'},
+    {id: 9, label: 'MOA'},
+    {id: 10, label: 'Hadoop'},
+    {id: 11, label: 'Mahout'},
+    {id: 12, label: 'Spark'},
+    {id: 13, label: 'Mlib'},
+     {id: 14, label: 'S4-Storm'},
+    {id: 15, label: 'SAMOA'}
+  ]
