@@ -12,5 +12,5 @@
     {id: 12, label: 'Spark'},
     {id: 13, label: 'Mlib'},
      {id: 14, label: 'S4-Storm'},
-    {id: 15, label: 'SAMOA'}
+    {id: 15, label: 'SAMOAS'}
   ]
