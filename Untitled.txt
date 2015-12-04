@@ -1,2 +1,7 @@
 test This has been modified at github server 
+<<<<<<< HEAD
 This line is being modified at client 
+||||||| merged common ancestors
+=======
+Another modification on the server 
+>>>>>>> origin/master
